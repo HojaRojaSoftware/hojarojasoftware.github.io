@@ -1,0 +1,85 @@
+/* components/AppList.css */
+
+.app-list {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    /* Center text content */
+}
+
+h2 {
+    color: red;
+    /* Red text */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.googlePlayStoreBadge {
+    width: 140px;
+}
+
+.appContainer {
+    display: flex;
+    flex-direction: column;
+    border: solid 2px;
+    border-color: red;
+    margin-right: 10px;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    background-color: darkslategray;
+    margin-bottom: 10px;
+}
+
+.globalAppsContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.category-filter {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+button {
+    margin: 0px 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button.active {
+    background-color: red;
+    color: white;
+}
+
+.appCategoryText {
+    font-size: 12px;
+    margin: 5px 0px;
+}
+
+.appIconImage {
+    height: 60px;
+    width: 60px;
+}
+
+.appTitle {
+    height: 40px;
+    border-bottom: solid 2px red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 15px;
+    width: 150px;
+}

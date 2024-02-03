@@ -1,0 +1,14 @@
+/* components/Home.css */
+
+.home {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    /* Center text content */
+}
+
+h2 {
+    color: red;
+    /* Red text */
+}
