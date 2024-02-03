@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.d5565944.css",
-    "main.js": "/static/js/main.faf44dcf.js",
+    "main.js": "/static/js/main.f2a873c6.js",
     "static/js/787.cc6a7d4d.chunk.js": "/static/js/787.cc6a7d4d.chunk.js",
     "static/media/icon_look_up_french.png": "/static/media/icon_look_up_french.6e1faf86f20b70819425.png",
     "static/media/icon_tarot_birth_cards.png": "/static/media/icon_tarot_birth_cards.0ef6a9ec63aa14931270.png",
     "static/media/icon_look_up_spanish.png": "/static/media/icon_look_up_spanish.5ffe52f5dc7f1bb9fcc4.png",
     "index.html": "/index.html",
     "main.d5565944.css.map": "/static/css/main.d5565944.css.map",
-    "main.faf44dcf.js.map": "/static/js/main.faf44dcf.js.map",
+    "main.f2a873c6.js.map": "/static/js/main.f2a873c6.js.map",
     "787.cc6a7d4d.chunk.js.map": "/static/js/787.cc6a7d4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5565944.css",
-    "static/js/main.faf44dcf.js"
+    "static/js/main.f2a873c6.js"
   ]
 }
